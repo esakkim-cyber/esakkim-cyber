@@ -26,17 +26,6 @@
 │                                                      │
 └──────────────────────────────────────────────────────┘
 
----
-
-# `02 // ABOUT.ME`
-
-```text
-[+] Cyber Security Engineering Student
-[+] Interested in Ethical Hacking and Web Security
-[+] Building Cyber Security and Full-Stack Projects
-[+] Learning Network Security and Threat Detection
-[+] Exploring Linux, CTFs and Secure Development
-[+] Open Source Learner
 ```
 
 I enjoy understanding how systems work, identifying vulnerabilities, and building secure solutions that combine software development with cybersecurity principles.
